@@ -1,1 +1,2 @@
-# WebDesignChallenge
+# Web-Design-Challenge
+Assignment
